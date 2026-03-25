@@ -1,0 +1,3 @@
+group,n_total,n_valid,n_found,coverage,mean,median,max,topk_mean,topk,cond_n,n_sample,temperature,cond_strategy,n_random
+gen,2,2,2,1.0,5.872588881044228,5.872588881044228,7.014309282159313,5.872588881044228,5,2.0,1.0,1.0,random,
+random,50,50,50,1.0,2.6777761976424,8.485898293991772,11.401066099683796,10.27715642416812,5,,,,,50.0

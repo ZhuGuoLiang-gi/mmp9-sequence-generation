@@ -1,0 +1,23 @@
+# Checkpoints (large; use GitHub Releases or external storage)
+models/*.pth
+models/*.pt
+models/*.ckpt
+
+# Slurm / local runs
+slurm_output/
+*.out
+*.err
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
